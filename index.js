@@ -1,5 +1,7 @@
 module.exports = {
   alphabet: "abcdefghijklmnopqrstuvwxyz",
   ALPHABET: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-  digit: "0123456789"
-}
+  alphaBET: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  digit: "0123456789",
+  alphaNumberic: "abcdefghijklmnopqrstuvwxyz0123456789"
+};
